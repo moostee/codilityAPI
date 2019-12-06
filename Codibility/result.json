@@ -1,0 +1,23 @@
+{
+  "Results": {
+    "output1": {
+      "type": "DataTable",
+      "value": {
+        "ColumnNames": [
+          "Scored Probabilities"
+        ],
+        "ColumnTypes": [
+          "Numeric"
+        ],
+        "Values": [
+          [
+            "0"
+          ],
+          [
+            "0"
+          ]
+        ]
+      }
+    }
+  }
+}

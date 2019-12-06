@@ -1,0 +1,11 @@
+c:\users\p7575\Desktop\Codibility\Codibility\bin\Debug\netcoreapp2.0\Codibility.deps.json
+c:\users\p7575\Desktop\Codibility\Codibility\bin\Debug\netcoreapp2.0\Codibility.runtimeconfig.json
+c:\users\p7575\Desktop\Codibility\Codibility\bin\Debug\netcoreapp2.0\Codibility.runtimeconfig.dev.json
+c:\users\p7575\Desktop\Codibility\Codibility\bin\Debug\netcoreapp2.0\Codibility.dll
+c:\users\p7575\Desktop\Codibility\Codibility\bin\Debug\netcoreapp2.0\Codibility.pdb
+c:\users\p7575\Desktop\Codibility\Codibility\obj\Debug\netcoreapp2.0\Codibility.csprojAssemblyReference.cache
+c:\users\p7575\Desktop\Codibility\Codibility\obj\Debug\netcoreapp2.0\Codibility.csproj.CoreCompileInputs.cache
+c:\users\p7575\Desktop\Codibility\Codibility\obj\Debug\netcoreapp2.0\Codibility.AssemblyInfoInputs.cache
+c:\users\p7575\Desktop\Codibility\Codibility\obj\Debug\netcoreapp2.0\Codibility.AssemblyInfo.cs
+c:\users\p7575\Desktop\Codibility\Codibility\obj\Debug\netcoreapp2.0\Codibility.dll
+c:\users\p7575\Desktop\Codibility\Codibility\obj\Debug\netcoreapp2.0\Codibility.pdb
